@@ -34,22 +34,22 @@ h1 {letter-spacing: 6px}
 <!-- Photo Grid -->
 <div class="w3-row-padding w3-grayscale" style="margin-bottom:128px">
   <div class="w3-half">
-    <img src="images/wedding.jpg" style="width:100%">
-    <img src="images/rocks.jpg" style="width:100%">
-    <img src="images/falls2.jpg" style="width:100%">
-    <img src="images/paris.jpg" style="width:100%">
-    <img src="images/nature.jpg" style="width:100%">
-    <img src="images/mist.jpg" style="width:100%">
-    <img src="images/paris.jpg" style="width:100%">
+    <img src="<?php echo get_template_directory_uri(); ?>/images/wedding.jpg" style="width:100%">
+    <img src="<?php echo get_template_directory_uri(); ?>/images/rocks.jpg" style="width:100%">
+    <img src="<?php echo get_template_directory_uri(); ?>/images/falls2.jpg" style="width:100%">
+    <img src="<?php echo get_template_directory_uri(); ?>/images/paris.jpg" style="width:100%">
+    <img src="<?php echo get_template_directory_uri(); ?>/images/nature.jpg" style="width:100%">
+    <img src="<?php echo get_template_directory_uri(); ?>/images/mist.jpg" style="width:100%">
+    <img src="<?php echo get_template_directory_uri(); ?>/images/paris.jpg" style="width:100%">
   </div>
 
   <div class="w3-half">
-    <img src="images/underwater.jpg" style="width:100%">
-    <img src="images/ocean.jpg" style="width:100%">
-    <img src="images/wedding.jpg" style="width:100%">
-    <img src="images/mountainskies.jpg" style="width:100%">
-    <img src="images/rocks.jpg" style="width:100%">
-    <img src="images/underwater.jpg" style="width:100%">
+    <img src="<?php echo get_template_directory_uri(); ?>/images/underwater.jpg" style="width:100%">
+    <img src="<?php echo get_template_directory_uri(); ?>/images/ocean.jpg" style="width:100%">
+    <img src="<?php echo get_template_directory_uri(); ?>/images/wedding.jpg" style="width:100%">
+    <img src="<?php echo get_template_directory_uri(); ?>/images/mountainskies.jpg" style="width:100%">
+    <img src="<?php echo get_template_directory_uri(); ?>/images/rocks.jpg" style="width:100%">
+    <img src="<?php echo get_template_directory_uri(); ?>/images/underwater.jpg" style="width:100%">
   </div>
 </div>
   
